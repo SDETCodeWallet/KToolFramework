@@ -5,5 +5,5 @@
    <name>SeleniumProject</name>
    <tag></tag>
    <UUID>693a7f4b-98ff-4df4-82d6-57f385deccd1</UUID>
-   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeout>0</pageLoadTimeout>
 </Project>

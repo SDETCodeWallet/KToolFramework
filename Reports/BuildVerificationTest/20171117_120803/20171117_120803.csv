@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+BuildVerificationTest,Chrome 62.0.3202.94,,2017-11-17 12:08:04,2017-11-17 12:08:18,14.287s,PASSED
+,,,,,,
+Test Cases/UserLogin,Chrome 62.0.3202.94,,2017-11-17 12:08:04,2017-11-17 12:08:18,13.967s,PASSED
+openBrowser,Chrome 62.0.3202.94,,2017-11-17 12:08:05,2017-11-17 12:08:11,6.280s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2017-11-17 12:08:11,2017-11-17 12:08:15,4.237s,PASSED
+click,Chrome 62.0.3202.94,,2017-11-17 12:08:15,2017-11-17 12:08:16,1.012s,PASSED
+click,Chrome 62.0.3202.94,,2017-11-17 12:08:16,2017-11-17 12:08:18,1.210s,PASSED
+closeBrowser,Chrome 62.0.3202.94,,2017-11-17 12:08:18,2017-11-17 12:08:18,0.704s,PASSED

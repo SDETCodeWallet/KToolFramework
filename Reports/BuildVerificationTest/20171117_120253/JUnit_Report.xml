@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="BuildVerificationTest" time="16" tests="1" failures="0" errors="0">
+   <testsuite name="BuildVerificationTest" tests="1" failures="0" errors="0" time="16" timestamp="2017-11-17 12:02:55" hostname="shubhamg - 360NDCPC032.360logica.com" id="Test Suites/BuildVerificationTest">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\shubhamg\\Katalon Studio\\SeleniumProject\\Reports\\BuildVerificationTest\\20171117_120253"/>
+         <property name="logFiles" value="C:\\Users\\shubhamg\\Katalon Studio\\SeleniumProject\\Reports\\BuildVerificationTest\\20171117_120253\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="shubhamg - 360NDCPC032.360logica.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.1.0.1"/>
+         <property name="browser" value="Chrome 62.0.3202.94"/>
+         <property name="hostAddress" value="192.168.3.51"/>
+         <property name="sessionId" value="9b04b1b86c6b4262cccf54c4943c3fb4"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/UserLogin" classname="Test Cases/UserLogin" status="PASSED">
+         <system-out><![CDATA[2017-11-17 12:02:55 - [TEST_CASE][PASSED] - Test Cases/UserLogin: Test Cases/UserLogin
+
+2017-11-17 12:02:55 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2017-11-17 12:03:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2017-11-17 12:03:03 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+
+2017-11-17 12:03:07 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+
+2017-11-17 12:03:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service (2)/a_Make Appointment' is clicked on
+
+2017-11-17 12:03:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service (2)/a_Make Appointment' is clicked on
+
+2017-11-17 12:03:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service (2)/button_Login' is clicked on
+
+2017-11-17 12:03:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service (2)/button_Login' is clicked on
+
+2017-11-17 12:03:10 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2017-11-17 12:03:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2017-11-17 12:02:55 - [TEST_SUITE][PASSED] - BuildVerificationTest: Test Cases/UserLogin]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
